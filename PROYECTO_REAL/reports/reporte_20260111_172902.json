@@ -1,0 +1,634 @@
+{
+  "fecha_generacion": "2026-01-11T17:29:02.583129",
+  "total_procesados": 124,
+  "resumen_calidad_aire": {
+    "Buena": 24,
+    "Moderada": 34,
+    "Peligrosa": 21,
+    "Excelente": 19,
+    "Deficiente": 15,
+    "Muy deficiente": 11
+  },
+  "resumen_por_ubicacion": {
+    "Auditorio Central": {
+      "total_muestras": 11,
+      "co2_promedio": 728.9427272727272,
+      "co2_min": 332.82,
+      "co2_max": 1377.41,
+      "categorias": {
+        "Buena": 1,
+        "Moderada": 3,
+        "Peligrosa": 1,
+        "Excelente": 3,
+        "Deficiente": 1,
+        "Muy deficiente": 2
+      }
+    },
+    "Área Deportiva": {
+      "total_muestras": 22,
+      "co2_promedio": 796.1259090909091,
+      "co2_min": 403.26,
+      "co2_max": 1936.01,
+      "categorias": {
+        "Buena": 5,
+        "Moderada": 9,
+        "Peligrosa": 3,
+        "Excelente": 2,
+        "Deficiente": 3
+      }
+    },
+    "Laboratorio de Ciencias": {
+      "total_muestras": 14,
+      "co2_promedio": 877.6242857142857,
+      "co2_min": 318.51,
+      "co2_max": 1738.98,
+      "categorias": {
+        "Buena": 3,
+        "Moderada": 3,
+        "Peligrosa": 4,
+        "Excelente": 2,
+        "Deficiente": 1,
+        "Muy deficiente": 1
+      }
+    },
+    "Biblioteca Central": {
+      "total_muestras": 16,
+      "co2_promedio": 900.3731250000001,
+      "co2_min": 409.26,
+      "co2_max": 1693.13,
+      "categorias": {
+        "Buena": 1,
+        "Moderada": 5,
+        "Peligrosa": 3,
+        "Excelente": 2,
+        "Deficiente": 3,
+        "Muy deficiente": 2
+      }
+    },
+    "Cafetería Principal": {
+      "total_muestras": 11,
+      "co2_promedio": 886.7827272727271,
+      "co2_min": 362.71,
+      "co2_max": 1988.57,
+      "categorias": {
+        "Buena": 4,
+        "Moderada": 2,
+        "Peligrosa": 2,
+        "Excelente": 1,
+        "Muy deficiente": 2
+      }
+    },
+    "Estacionamiento Norte": {
+      "total_muestras": 19,
+      "co2_promedio": 860.8157894736842,
+      "co2_min": 343.11,
+      "co2_max": 2623.42,
+      "categorias": {
+        "Buena": 5,
+        "Moderada": 2,
+        "Peligrosa": 4,
+        "Excelente": 5,
+        "Deficiente": 2,
+        "Muy deficiente": 1
+      }
+    },
+    "Campus Centenario - UPS Guayaquil": {
+      "total_muestras": 17,
+      "co2_promedio": 998.2564705882353,
+      "co2_min": 406.74,
+      "co2_max": 2403.27,
+      "categorias": {
+        "Buena": 3,
+        "Moderada": 5,
+        "Peligrosa": 3,
+        "Excelente": 1,
+        "Deficiente": 3,
+        "Muy deficiente": 2
+      }
+    },
+    "Edificio de Ingeniería - Piso 3": {
+      "total_muestras": 14,
+      "co2_promedio": 743.0471428571427,
+      "co2_min": 287.73,
+      "co2_max": 1850.74,
+      "categorias": {
+        "Buena": 2,
+        "Moderada": 5,
+        "Peligrosa": 1,
+        "Excelente": 3,
+        "Deficiente": 2,
+        "Muy deficiente": 1
+      }
+    }
+  },
+  "resumen_alertas": {
+    "total_alertas": 26,
+    "alertas_criticas": 16,
+    "alertas_advertencia": 10
+  },
+  "estadisticas_basicas": {
+    "co2_promedio": 852.4917741935484,
+    "co2_min": 287.73,
+    "co2_max": 2623.42,
+    "temperatura_promedio": 27.98580645161291,
+    "humedad_promedio": 68.57403225806453
+  },
+  "estadisticas_modelo": {
+    "prediccion_promedio": 0.10568795482714181,
+    "prediccion_min": 0.006482507215373084,
+    "prediccion_max": 0.4342192431834268
+  },
+  "resultados_detallados": [
+    {
+      "calidad_aire": "Muy deficiente",
+      "co2_nivel": "Muy elevado",
+      "co2_ppm": 1118.44,
+      "temperatura": 27.04,
+      "humedad": 65.44,
+      "presion": 1013.24,
+      "prediccion_valor": 0.15020964016248026,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.025130",
+      "ubicacion": "Auditorio Central",
+      "recomendaciones": "ALERTA: Condiciones peligrosas. Limitar actividades.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 1,
+        "alertas_criticas": 0,
+        "alertas_generadas": [
+          {
+            "timestamp": "2026-01-11T17:28:53.002949",
+            "nivel": "ADVERTENCIA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Nivel de CO2 ALTO: 1118.44 ppm",
+            "ubicacion": "Auditorio Central",
+            "datos_adicionales": {
+              "co2_ppm": 1118.44,
+              "umbral": 1000,
+              "condicion": "CO2_ALTO",
+              "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+            },
+            "db_id": 96
+          }
+        ]
+      }
+    },
+    {
+      "calidad_aire": "Deficiente",
+      "co2_nivel": "Elevado",
+      "co2_ppm": 856.23,
+      "temperatura": 30.02,
+      "humedad": 55.23,
+      "presion": 1013.83,
+      "prediccion_valor": 0.10557855781705572,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.084523",
+      "ubicacion": "Área Deportiva",
+      "recomendaciones": "Ventilacion forzada recomendada. Monitorear continuamente.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 0,
+        "alertas_criticas": 0,
+        "alertas_generadas": []
+      }
+    },
+    {
+      "calidad_aire": "Muy deficiente",
+      "co2_nivel": "Muy elevado",
+      "co2_ppm": 1107.48,
+      "temperatura": 25.6,
+      "humedad": 61.26,
+      "presion": 1014.95,
+      "prediccion_valor": 0.14758725502755513,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.164662",
+      "ubicacion": "Laboratorio de Ciencias",
+      "recomendaciones": "ALERTA: Condiciones peligrosas. Limitar actividades.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 1,
+        "alertas_criticas": 0,
+        "alertas_generadas": [
+          {
+            "timestamp": "2026-01-11T17:28:53.143042",
+            "nivel": "ADVERTENCIA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Nivel de CO2 ALTO: 1107.48 ppm",
+            "ubicacion": "Laboratorio de Ciencias",
+            "datos_adicionales": {
+              "co2_ppm": 1107.48,
+              "umbral": 1000,
+              "condicion": "CO2_ALTO",
+              "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+            },
+            "db_id": 98
+          }
+        ]
+      }
+    },
+    {
+      "calidad_aire": "Buena",
+      "co2_nivel": "Aceptable",
+      "co2_ppm": 529.91,
+      "temperatura": 25.0,
+      "humedad": 67.63,
+      "presion": 1014.85,
+      "prediccion_valor": 0.043253165864414474,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.222171",
+      "ubicacion": "Biblioteca Central",
+      "recomendaciones": "Condiciones aceptables. Verificar fuentes de emision.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 0,
+        "alertas_criticas": 0,
+        "alertas_generadas": []
+      }
+    },
+    {
+      "calidad_aire": "Deficiente",
+      "co2_nivel": "Elevado",
+      "co2_ppm": 994.36,
+      "temperatura": 26.2,
+      "humedad": 68.46,
+      "presion": 1010.25,
+      "prediccion_valor": 0.13283410802151938,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.285044",
+      "ubicacion": "Biblioteca Central",
+      "recomendaciones": "Ventilacion forzada recomendada. Monitorear continuamente.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 0,
+        "alertas_criticas": 0,
+        "alertas_generadas": []
+      }
+    },
+    {
+      "calidad_aire": "Muy deficiente",
+      "co2_nivel": "Muy elevado",
+      "co2_ppm": 1092.39,
+      "temperatura": 27.11,
+      "humedad": 62.83,
+      "presion": 1011.32,
+      "prediccion_valor": 0.14186566953383958,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.394634",
+      "ubicacion": "Cafetería Principal",
+      "recomendaciones": "ALERTA: Condiciones peligrosas. Limitar actividades.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 1,
+        "alertas_criticas": 0,
+        "alertas_generadas": [
+          {
+            "timestamp": "2026-01-11T17:28:53.370034",
+            "nivel": "ADVERTENCIA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Nivel de CO2 ALTO: 1092.39 ppm",
+            "ubicacion": "Cafetería Principal",
+            "datos_adicionales": {
+              "co2_ppm": 1092.39,
+              "umbral": 1000,
+              "condicion": "CO2_ALTO",
+              "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+            },
+            "db_id": 100
+          }
+        ]
+      }
+    },
+    {
+      "calidad_aire": "Peligrosa",
+      "co2_nivel": "Critico",
+      "co2_ppm": 1471.32,
+      "temperatura": 28.9,
+      "humedad": 58.36,
+      "presion": 1011.48,
+      "prediccion_valor": 0.22265692114179608,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.527314",
+      "ubicacion": "Estacionamiento Norte",
+      "recomendaciones": "ALERTA CRITICA: Evitar exposicion. Activar sistemas de emergencia.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 2,
+        "alertas_criticas": 2,
+        "alertas_generadas": [
+          {
+            "timestamp": "2026-01-11T17:28:53.476426",
+            "nivel": "CRITICA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Nivel de CO2 CRITICO: 1471.32 ppm",
+            "ubicacion": "Estacionamiento Norte",
+            "datos_adicionales": {
+              "co2_ppm": 1471.32,
+              "umbral": 1200,
+              "condicion": "CO2_CRITICO",
+              "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+            },
+            "db_id": 103
+          },
+          {
+            "timestamp": "2026-01-11T17:28:53.489688",
+            "nivel": "CRITICA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Calidad del aire PELIGROSA detectada",
+            "ubicacion": "Estacionamiento Norte",
+            "datos_adicionales": {
+              "co2_ppm": 1471.32,
+              "temperatura": 28.9,
+              "humedad": 58.36,
+              "calidad_detectada": "Peligrosa",
+              "condicion": "CALIDAD_PELIGROSA",
+              "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+            },
+            "db_id": 104
+          }
+        ]
+      }
+    },
+    {
+      "calidad_aire": "Peligrosa",
+      "co2_nivel": "Critico",
+      "co2_ppm": 1964.61,
+      "temperatura": 29.39,
+      "humedad": 72.05,
+      "presion": 1012.3,
+      "prediccion_valor": 0.3178181093998831,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.648814",
+      "ubicacion": "Campus Centenario - UPS Guayaquil",
+      "recomendaciones": "ALERTA CRITICA: Evitar exposicion. Activar sistemas de emergencia.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 2,
+        "alertas_criticas": 2,
+        "alertas_generadas": [
+          {
+            "timestamp": "2026-01-11T17:28:53.600122",
+            "nivel": "CRITICA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Nivel de CO2 CRITICO: 1964.61 ppm",
+            "ubicacion": "Campus Centenario - UPS Guayaquil",
+            "datos_adicionales": {
+              "co2_ppm": 1964.61,
+              "umbral": 1200,
+              "condicion": "CO2_CRITICO",
+              "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+            },
+            "db_id": 107
+          },
+          {
+            "timestamp": "2026-01-11T17:28:53.610200",
+            "nivel": "CRITICA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Calidad del aire PELIGROSA detectada",
+            "ubicacion": "Campus Centenario - UPS Guayaquil",
+            "datos_adicionales": {
+              "co2_ppm": 1964.61,
+              "temperatura": 29.39,
+              "humedad": 72.05,
+              "calidad_detectada": "Peligrosa",
+              "condicion": "CALIDAD_PELIGROSA",
+              "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+            },
+            "db_id": 108
+          }
+        ]
+      }
+    },
+    {
+      "calidad_aire": "Muy deficiente",
+      "co2_nivel": "Muy elevado",
+      "co2_ppm": 1061.95,
+      "temperatura": 29.8,
+      "humedad": 64.94,
+      "presion": 1014.47,
+      "prediccion_valor": 0.1474794108209888,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.757667",
+      "ubicacion": "Biblioteca Central",
+      "recomendaciones": "ALERTA: Condiciones peligrosas. Limitar actividades.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 1,
+        "alertas_criticas": 0,
+        "alertas_generadas": [
+          {
+            "timestamp": "2026-01-11T17:28:53.722680",
+            "nivel": "ADVERTENCIA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Nivel de CO2 ALTO: 1061.95 ppm",
+            "ubicacion": "Biblioteca Central",
+            "datos_adicionales": {
+              "co2_ppm": 1061.95,
+              "umbral": 1000,
+              "condicion": "CO2_ALTO",
+              "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+            },
+            "db_id": 110
+          }
+        ]
+      }
+    },
+    {
+      "calidad_aire": "Peligrosa",
+      "co2_nivel": "Critico",
+      "co2_ppm": 1425.46,
+      "temperatura": 31.44,
+      "humedad": 59.64,
+      "presion": 1010.13,
+      "prediccion_valor": 0.2186813194057948,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-11T17:28:53.904110",
+      "ubicacion": "Laboratorio de Ciencias",
+      "recomendaciones": "ALERTA CRITICA: Evitar exposicion. Activar sistemas de emergencia.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 2,
+        "alertas_criticas": 2,
+        "alertas_generadas": [
+          {
+            "timestamp": "2026-01-11T17:28:53.854707",
+            "nivel": "CRITICA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Nivel de CO2 CRITICO: 1425.46 ppm",
+            "ubicacion": "Laboratorio de Ciencias",
+            "datos_adicionales": {
+              "co2_ppm": 1425.46,
+              "umbral": 1200,
+              "condicion": "CO2_CRITICO",
+              "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+            },
+            "db_id": 113
+          },
+          {
+            "timestamp": "2026-01-11T17:28:53.864958",
+            "nivel": "CRITICA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Calidad del aire PELIGROSA detectada",
+            "ubicacion": "Laboratorio de Ciencias",
+            "datos_adicionales": {
+              "co2_ppm": 1425.46,
+              "temperatura": 31.44,
+              "humedad": 59.64,
+              "calidad_detectada": "Peligrosa",
+              "condicion": "CALIDAD_PELIGROSA",
+              "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+            },
+            "db_id": 114
+          }
+        ]
+      }
+    }
+  ],
+  "importancia_variables_promedio": {
+    "co2": 0.9977297447262237,
+    "temperatura": 0.0015275935905883253,
+    "humedad": 0.0003265386607060383,
+    "presion": 0.0001457278859573978,
+    "hora_dia": 0.00017752974869725228,
+    "dia_semana": 9.286538782759266e-05
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "feature_names": [
+    "co2",
+    "temperatura",
+    "humedad",
+    "presion",
+    "hora_dia",
+    "dia_semana"
+  ],
+  "fecha_entrenamiento": "2026-01-11T18:02:55.723106",
+  "train_score": 0.9995364029436058,
+  "test_score": 0.9985077470853583,
+  "parametros": {
+    "n_estimators": 100,
+    "max_depth": 15,
+    "min_samples_split": 5,
+    "min_samples_leaf": 2
+  }
+}

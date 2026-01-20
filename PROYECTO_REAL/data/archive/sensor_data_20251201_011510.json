@@ -1,0 +1,31 @@
+{
+  "sensor_data": {
+    "metadata": {
+      "device_id": "UPS-SENSOR-002",
+      "location": "Auditorio Central",
+      "timestamp": "2025-12-01T01:15:10",
+      "latitude": -2.1703,
+      "longitude": -79.9227
+    },
+    "readings": {
+      "scd30": {
+        "co2": 889.36,
+        "temperature": 24.89,
+        "humidity": 63.25
+      },
+      "bme280": {
+        "temperature": 24.77,
+        "humidity": 61.52,
+        "pressure": 1010.82
+      },
+      "mq135": {
+        "analog_value": 172.54,
+        "digital_value": 0
+      }
+    },
+    "system_info": {
+      "battery_level": 90,
+      "sampling_interval": 3600
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "fecha_generacion": "2026-01-07T11:35:21.352117",
+  "total_procesados": 3,
+  "resumen_calidad_aire": {
+    "Peligrosa": 1,
+    "Buena": 1,
+    "Moderada": 1
+  },
+  "resumen_por_ubicacion": {
+    "Campus Centenario - UPS Guayaquil": {
+      "total_muestras": 3,
+      "co2_promedio": 800.5333333333333,
+      "co2_min": 450.5,
+      "co2_max": 1200.8,
+      "categorias": {
+        "Peligrosa": 1,
+        "Buena": 1,
+        "Moderada": 1
+      }
+    }
+  },
+  "resumen_alertas": {
+    "total_alertas": 2,
+    "alertas_criticas": 2,
+    "alertas_advertencia": 0
+  },
+  "estadisticas_basicas": {
+    "co2_promedio": 800.5333333333333,
+    "co2_min": 450.5,
+    "co2_max": 1200.8,
+    "temperatura_promedio": 28.133333333333336,
+    "humedad_promedio": 62.06666666666666
+  },
+  "estadisticas_modelo": {
+    "prediccion_promedio": 0.09093420103749106,
+    "prediccion_min": 0.024732174233619605,
+    "prediccion_max": 0.16804557419909244
+  },
+  "resultados_detallados": [
+    {
+      "calidad_aire": "Buena",
+      "co2_nivel": "Aceptable",
+      "co2_ppm": 450.5,
+      "temperatura": 26.8,
+      "humedad": 65.2,
+      "presion": 1013.25,
+      "prediccion_valor": 0.024732174233619605,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-07T11:35:21.043483",
+      "ubicacion": "Campus Centenario - UPS Guayaquil",
+      "recomendaciones": "Condiciones aceptables. Verificar fuentes de emision.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 0,
+        "alertas_criticas": 0,
+        "alertas_generadas": []
+      }
+    },
+    {
+      "calidad_aire": "Moderada",
+      "co2_nivel": "Ligeramente elevado",
+      "co2_ppm": 750.3,
+      "temperatura": 28.1,
+      "humedad": 62.7,
+      "presion": 1013.0,
+      "prediccion_valor": 0.0800248546797611,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-07T11:35:21.174649",
+      "ubicacion": "Campus Centenario - UPS Guayaquil",
+      "recomendaciones": "Aumentar ventilacion. Considerar reducir actividades intensas.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 0,
+        "alertas_criticas": 0,
+        "alertas_generadas": []
+      }
+    },
+    {
+      "calidad_aire": "Peligrosa",
+      "co2_nivel": "Critico",
+      "co2_ppm": 1200.8,
+      "temperatura": 29.5,
+      "humedad": 58.3,
+      "presion": 1012.8,
+      "prediccion_valor": 0.16804557419909244,
+      "importancia_variables": {
+        "co2": 0.9977297447262234,
+        "temperatura": 0.0015275935905883255,
+        "humedad": 0.00032653866070603835,
+        "presion": 0.00014572788595739779,
+        "hora_dia": 0.00017752974869725225,
+        "dia_semana": 9.286538782759269e-05
+      },
+      "timestamp_analisis": "2026-01-07T11:35:21.323072",
+      "ubicacion": "Campus Centenario - UPS Guayaquil",
+      "recomendaciones": "ALERTA CRITICA: Evitar exposicion. Activar sistemas de emergencia.",
+      "features_utilizadas": [
+        "co2",
+        "temperatura",
+        "humedad",
+        "presion",
+        "hora_dia",
+        "dia_semana"
+      ],
+      "info_alertas": {
+        "total_alertas": 2,
+        "alertas_criticas": 2,
+        "alertas_generadas": [
+          {
+            "timestamp": "2026-01-07T11:35:21.295572",
+            "nivel": "CRITICA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Nivel de CO2 CRITICO: 1200.8 ppm",
+            "ubicacion": "Campus Centenario - UPS Guayaquil",
+            "datos_adicionales": {
+              "co2_ppm": 1200.8,
+              "umbral": 1200,
+              "condicion": "CO2_CRITICO",
+              "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+            }
+          },
+          {
+            "timestamp": "2026-01-07T11:35:21.310498",
+            "nivel": "CRITICA",
+            "tipo": "CALIDAD_AIRE",
+            "mensaje": "Calidad del aire PELIGROSA detectada",
+            "ubicacion": "Campus Centenario - UPS Guayaquil",
+            "datos_adicionales": {
+              "co2_ppm": 1200.8,
+              "temperatura": 29.5,
+              "humedad": 58.3,
+              "calidad_detectada": "Peligrosa",
+              "condicion": "CALIDAD_PELIGROSA",
+              "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "importancia_variables_promedio": {
+    "co2": 0.9977297447262234,
+    "temperatura": 0.0015275935905883255,
+    "humedad": 0.00032653866070603835,
+    "presion": 0.00014572788595739779,
+    "hora_dia": 0.00017752974869725225,
+    "dia_semana": 9.28653878275927e-05
+  }
+}

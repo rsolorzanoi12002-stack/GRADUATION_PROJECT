@@ -1,0 +1,31 @@
+{
+  "sensor_data": {
+    "metadata": {
+      "device_id": "UPS-SENSOR-001",
+      "location": "Campus Centenario - UPS Guayaquil",
+      "timestamp": "2025-01-15T12:45:00",
+      "latitude": -2.170998,
+      "longitude": -79.922356
+    },
+    "readings": {
+      "scd30": {
+        "co2": 750.3,
+        "temperature": 28.1,
+        "humidity": 62.7
+      },
+      "bme280": {
+        "temperature": 28.0,
+        "humidity": 63.2,
+        "pressure": 1013.0
+      },
+      "mq135": {
+        "analog_value": 180.5,
+        "digital_value": 0
+      }
+    },
+    "system_info": {
+      "battery_level": 83,
+      "sampling_interval": 3600
+    }
+  }
+}

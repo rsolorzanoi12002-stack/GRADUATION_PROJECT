@@ -1,0 +1,31 @@
+{
+  "sensor_data": {
+    "metadata": {
+      "device_id": "UPS-SENSOR-001",
+      "location": "Laboratorio de Ciencias",
+      "timestamp": "2025-12-01T01:30:30",
+      "latitude": -2.171,
+      "longitude": -79.9218
+    },
+    "readings": {
+      "scd30": {
+        "co2": 576.43,
+        "temperature": 24.53,
+        "humidity": 71.7
+      },
+      "bme280": {
+        "temperature": 24.59,
+        "humidity": 71.85,
+        "pressure": 1013.36
+      },
+      "mq135": {
+        "analog_value": 110.66,
+        "digital_value": 0
+      }
+    },
+    "system_info": {
+      "battery_level": 89,
+      "sampling_interval": 3600
+    }
+  }
+}

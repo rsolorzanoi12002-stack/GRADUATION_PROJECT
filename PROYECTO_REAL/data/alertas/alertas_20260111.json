@@ -1,0 +1,2148 @@
+[
+  {
+    "timestamp": "2026-01-11T13:54:53.855548",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1167.56 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1167.56,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:54:53.949452",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 63 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 63,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:26.257794",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1091.13 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1091.13,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:26.277162",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 87.14%",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "humedad_percent": 87.14,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:26.680951",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1345.9 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1345.9,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:26.692677",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1345.9,
+      "temperatura": 27.37,
+      "humedad": 79.25,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:26.831696",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1353.67 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1353.67,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:26.842597",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1353.67,
+      "temperatura": 29.87,
+      "humedad": 72.49,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:27.563060",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1022.52 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1022.52,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:28.585676",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1348.01 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1348.01,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:28.598145",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1348.01,
+      "temperatura": 28.04,
+      "humedad": 69.68,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:29.564181",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1489.01 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1489.01,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:29.574292",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1489.01,
+      "temperatura": 32.99,
+      "humedad": 55.95,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:29.785273",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1029.81 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1029.81,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:29.986002",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1158.42 ppm",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1158.42,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:30.317850",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1177.13 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1177.13,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:31.601952",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1460.22 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1460.22,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:31.615250",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1460.22,
+      "temperatura": 30.97,
+      "humedad": 65.3,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:35.460755",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1009.22 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1009.22,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:36.534272",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1641.72 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1641.72,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:36.544182",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1641.72,
+      "temperatura": 29.26,
+      "humedad": 59.55,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T13:59:37.342103",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 76 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 76,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:30.033367",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1411.4 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1411.4,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:30.056851",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1411.4,
+      "temperatura": 27.16,
+      "humedad": 62.19,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:30.278207",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1119.06 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1119.06,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:33.392335",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1288.1 ppm",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1288.1,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:33.478180",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1288.1,
+      "temperatura": 27.72,
+      "humedad": 75.86,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:33.727905",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1268.56 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1268.56,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:33.806418",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1268.56,
+      "temperatura": 29.54,
+      "humedad": 73.77,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:36.435816",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1664.67 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1664.67,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:36.514802",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1664.67,
+      "temperatura": 30.96,
+      "humedad": 71.43,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:37.589260",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1387.4 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1387.4,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:37.603622",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1387.4,
+      "temperatura": 27.38,
+      "humedad": 73.53,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:37.795195",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1659.2 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1659.2,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:37.809407",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1659.2,
+      "temperatura": 31.65,
+      "humedad": 70.49,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:38.018369",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 2978.88 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 2978.88,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:38.103714",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 37.19°C",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "temperatura_c": 37.19,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:38.125432",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 2978.88,
+      "temperatura": 37.19,
+      "humedad": 62.91,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:40.975692",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1002.33 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1002.33,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:44.424688",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1021.94 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1021.94,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:45.150572",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 85.59%",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "humedad_percent": 85.59,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:45.737397",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1052.55 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1052.55,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:48.513782",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 35.35°C",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "temperatura_c": 35.35,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:49.252415",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1040.78 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1040.78,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:51.453364",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1507.53 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1507.53,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:51.545049",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1507.53,
+      "temperatura": 31.71,
+      "humedad": 59.69,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:43:52.445719",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1189.16 ppm",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1189.16,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:44:04.129592",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 86.55%",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "humedad_percent": 86.55,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:44:04.826908",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 36.75°C",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "temperatura_c": 36.75,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:44:06.727753",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 93 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 93,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:14.899902",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 85.3%",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "humedad_percent": 85.3,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:15.119588",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1462.99 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1462.99,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:15.141648",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1462.99,
+      "temperatura": 30.08,
+      "humedad": 57.66,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:15.353281",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1451.73 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1451.73,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:15.363439",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1451.73,
+      "temperatura": 29.35,
+      "humedad": 61.34,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:16.170732",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 2224.32 ppm",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 2224.32,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:16.245745",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 2224.32,
+      "temperatura": 29.74,
+      "humedad": 70.41,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:16.473793",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1134.47 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1134.47,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:16.626142",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1171.38 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1171.38,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:16.775176",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1541.32 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1541.32,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:16.801537",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1541.32,
+      "temperatura": 28.2,
+      "humedad": 81.14,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:17.934796",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1038.81 ppm",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1038.81,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:19.604979",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1266.51 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1266.51,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:19.694044",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1266.51,
+      "temperatura": 30.02,
+      "humedad": 74.12,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:21.508981",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 2100.19 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 2100.19,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:21.520323",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 2100.19,
+      "temperatura": 30.85,
+      "humedad": 84.52,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:22.013729",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1421.69 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1421.69,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:22.026503",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1421.69,
+      "temperatura": 29.55,
+      "humedad": 78.98,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:26.752878",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 35.01°C",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "temperatura_c": 35.01,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:30.571321",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 86.73%",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "humedad_percent": 86.73,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:31.926385",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1241.64 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1241.64,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:32.017211",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1241.64,
+      "temperatura": 29.53,
+      "humedad": 66.25,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T15:55:35.811766",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 16 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 16,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:32.252384",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1472.14 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1472.14,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:32.339527",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1472.14,
+      "temperatura": 29.83,
+      "humedad": 58.26,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:33.668214",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1011.16 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1011.16,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:34.105026",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1142.15 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1142.15,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:34.278258",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1027.51 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1027.51,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:35.176120",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 86.06%",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "humedad_percent": 86.06,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:35.965923",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1422.13 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1422.13,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:36.046238",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1422.13,
+      "temperatura": 31.37,
+      "humedad": 64.44,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:37.188335",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1115.47 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1115.47,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:37.740850",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1256.34 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1256.34,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:37.757125",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1256.34,
+      "temperatura": 31.95,
+      "humedad": 61.59,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:38.890872",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1434.17 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1434.17,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:38.916343",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1434.17,
+      "temperatura": 27.55,
+      "humedad": 77.28,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:39.093468",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1043.29 ppm",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1043.29,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:39.300023",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1190.72 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1190.72,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:41.711597",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1281.29 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1281.29,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:41.800734",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1281.29,
+      "temperatura": 30.11,
+      "humedad": 61.9,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:43.497639",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 85.0%",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "humedad_percent": 85.0,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:43.769066",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1326.28 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1326.28,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:43.786560",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1326.28,
+      "temperatura": 30.9,
+      "humedad": 71.09,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:44.816487",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1548.96 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1548.96,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:44.900262",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1548.96,
+      "temperatura": 30.76,
+      "humedad": 69.91,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:51.729385",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 87.4%",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "humedad_percent": 87.4,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:52.112792",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1080.17 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1080.17,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T16:28:52.270961",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 31 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 31,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.002949",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1118.44 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1118.44,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.143042",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1107.48 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1107.48,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.370034",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1092.39 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1092.39,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.476426",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1471.32 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1471.32,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.489688",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1471.32,
+      "temperatura": 28.9,
+      "humedad": 58.36,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.600122",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1964.61 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1964.61,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.610200",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1964.61,
+      "temperatura": 29.39,
+      "humedad": 72.05,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.722680",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1061.95 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1061.95,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.854707",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1425.46 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1425.46,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:53.864958",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1425.46,
+      "temperatura": 31.44,
+      "humedad": 59.64,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:55.218563",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1017.31 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1017.31,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:55.815305",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 88.13%",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "humedad_percent": 88.13,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:55.968506",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1377.41 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1377.41,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:55.981075",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1377.41,
+      "temperatura": 28.42,
+      "humedad": 61.08,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:56.305577",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1381.18 ppm",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1381.18,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:56.317237",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1381.18,
+      "temperatura": 30.67,
+      "humedad": 64.01,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:57.148015",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1303.64 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1303.64,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:57.158518",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1303.64,
+      "temperatura": 27.24,
+      "humedad": 57.27,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:57.268685",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 88.33%",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "humedad_percent": 88.33,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:57.368989",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1988.57 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1988.57,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:57.381905",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1988.57,
+      "temperatura": 31.98,
+      "humedad": 64.58,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:57.605073",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1850.74 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1850.74,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:57.616390",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1850.74,
+      "temperatura": 33.18,
+      "humedad": 64.75,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:58.040154",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1029.68 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1029.68,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:28:59.754296",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1092.35 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1092.35,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:29:00.593456",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 87.15%",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "humedad_percent": 87.15,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T17:29:02.570043",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 48 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 48,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:16.922468",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 88.2%",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "humedad_percent": 88.2,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:16.996663",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 95.0%",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "humedad_percent": 95.0,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.076717",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 2265.24 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 2265.24,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.086402",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 94.32%",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "humedad_percent": 94.32,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.097399",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 2265.24,
+      "temperatura": 25.65,
+      "humedad": 94.32,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.443345",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 2941.52 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 2941.52,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.454279",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 35.23°C",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "temperatura_c": 35.23,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.465997",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 2941.52,
+      "temperatura": 35.23,
+      "humedad": 82.83,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.569170",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 2519.77 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 2519.77,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.579835",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 2519.77,
+      "temperatura": 34.62,
+      "humedad": 70.74,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.748648",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1161.53 ppm",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "co2_ppm": 1161.53,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.895770",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1772.22 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1772.22,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:17.906762",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1772.22,
+      "temperatura": 34.97,
+      "humedad": 71.78,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:18.017483",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1190.84 ppm",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "co2_ppm": 1190.84,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:18.347263",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 93.13%",
+    "ubicacion": "Área Deportiva",
+    "datos_adicionales": {
+      "humedad_percent": 93.13,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:18.428303",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 90.44%",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "humedad_percent": 90.44,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:18.568642",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 88.27%",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "humedad_percent": 88.27,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:18.873936",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 93.49%",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "humedad_percent": 93.49,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:18.957759",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1181.53 ppm",
+    "ubicacion": "Cafetería Principal",
+    "datos_adicionales": {
+      "co2_ppm": 1181.53,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:19.182571",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1016.37 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1016.37,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:19.715966",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1815.43 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1815.43,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:19.729836",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1815.43,
+      "temperatura": 27.3,
+      "humedad": 83.16,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:19.864327",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1095.57 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1095.57,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:20.220052",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1257.15 ppm",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1257.15,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:20.231013",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "co2_ppm": 1257.15,
+      "temperatura": 33.27,
+      "humedad": 67.8,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:20.421114",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1157.62 ppm",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "co2_ppm": 1157.62,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:20.620371",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Humedad ALTA: 95.0%",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "humedad_percent": 95.0,
+      "umbral": 85,
+      "condicion": "HUMEDAD_ALTA",
+      "recomendacion": "Controlar humedad - Riesgo de condensacion"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:21.139386",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 35.71°C",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "temperatura_c": 35.71,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:21.218938",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1107.45 ppm",
+    "ubicacion": "Edificio de Ingeniería - Piso 3",
+    "datos_adicionales": {
+      "co2_ppm": 1107.45,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:22.409851",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 35.28°C",
+    "ubicacion": "Biblioteca Central",
+    "datos_adicionales": {
+      "temperatura_c": 35.28,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:26.048907",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 ALTO: 1002.34 ppm",
+    "ubicacion": "Estacionamiento Norte",
+    "datos_adicionales": {
+      "co2_ppm": 1002.34,
+      "umbral": 1000,
+      "condicion": "CO2_ALTO",
+      "recomendacion": "Aumentar ventilacion - Monitorear continuamente"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:29.193790",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 35.31°C",
+    "ubicacion": "Laboratorio de Ciencias",
+    "datos_adicionales": {
+      "temperatura_c": 35.31,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:38.037357",
+    "nivel": "ADVERTENCIA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Temperatura ALTA: 35.12°C",
+    "ubicacion": "Auditorio Central",
+    "datos_adicionales": {
+      "temperatura_c": 35.12,
+      "umbral": 35,
+      "condicion": "TEMPERATURA_ALTA",
+      "recomendacion": "Activar sistemas de enfriamiento"
+    }
+  },
+  {
+    "timestamp": "2026-01-11T18:02:51.693459",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 12 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 12,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  }
+]

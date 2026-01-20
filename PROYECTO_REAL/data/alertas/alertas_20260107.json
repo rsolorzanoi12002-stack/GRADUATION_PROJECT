@@ -1,0 +1,304 @@
+[
+  {
+    "timestamp": "2026-01-07T11:26:03.178445",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1200.8 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:26:03.188303",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "temperatura": 29.5,
+      "humedad": 58.3,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:26:03.219509",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 64 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 64,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:34:05.576884",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1200.8 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:34:05.587145",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "temperatura": 29.5,
+      "humedad": 58.3,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:34:05.608295",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 67 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 67,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:34:30.892213",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1200.8 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:34:30.902505",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "temperatura": 29.5,
+      "humedad": 58.3,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:34:30.923440",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 70 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 70,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:35:21.295572",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1200.8 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:35:21.310498",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "temperatura": 29.5,
+      "humedad": 58.3,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T11:35:21.340674",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 73 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 73,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T14:53:48.858334",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1200.8 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T14:53:48.880646",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "temperatura": 29.5,
+      "humedad": 58.3,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T14:53:48.945736",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 76 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 76,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T15:43:27.040575",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "CO2 crítico: 1500 ppm",
+    "ubicacion": "Aula 101",
+    "datos_adicionales": {
+      "co2": 1500,
+      "temperatura": 28.5
+    }
+  },
+  {
+    "timestamp": "2026-01-07T15:47:23.715138",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1200.8 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T15:47:23.788815",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "temperatura": 29.5,
+      "humedad": 58.3,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T15:47:23.848139",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 2 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 2,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T15:49:20.127897",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "CO2 crítico: 1500 ppm",
+    "ubicacion": "Aula 101",
+    "datos_adicionales": {
+      "co2": 1500,
+      "temperatura": 28.5
+    }
+  },
+  {
+    "timestamp": "2026-01-07T16:20:19.660249",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Nivel de CO2 CRITICO: 1200.8 ppm",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "umbral": 1200,
+      "condicion": "CO2_CRITICO",
+      "recomendacion": "EVACUAR AREA - Ventilacion de emergencia requerida"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T16:20:19.680338",
+    "nivel": "CRITICA",
+    "tipo": "CALIDAD_AIRE",
+    "mensaje": "Calidad del aire PELIGROSA detectada",
+    "ubicacion": "Campus Centenario - UPS Guayaquil",
+    "datos_adicionales": {
+      "co2_ppm": 1200.8,
+      "temperatura": 29.5,
+      "humedad": 58.3,
+      "calidad_detectada": "Peligrosa",
+      "condicion": "CALIDAD_PELIGROSA",
+      "recomendacion": "EVACUACION RECOMENDADA - Activar sistemas de emergencia"
+    }
+  },
+  {
+    "timestamp": "2026-01-07T16:20:19.747850",
+    "nivel": "CRITICA",
+    "tipo": "SISTEMA",
+    "mensaje": "Existen 2 alertas CRITICAS pendientes por mas de 1 hora",
+    "ubicacion": "Sistema",
+    "datos_adicionales": {
+      "alertas_criticas_pendientes": 2,
+      "tiempo_pendiente": ">1 hora",
+      "recomendacion": "Revisar inmediatamente las alertas del sistema"
+    }
+  }
+]

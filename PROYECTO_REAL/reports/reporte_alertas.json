@@ -1,0 +1,186 @@
+{
+  "fecha_generacion": "2026-01-11T18:05:40.400492",
+  "periodo": "24_horas",
+  "total_alertas": 67,
+  "resumen_niveles": {
+    "CRITICA": 25,
+    "ADVERTENCIA": 42
+  },
+  "resumen_tipos": {
+    "SISTEMA": 1,
+    "CALIDAD_AIRE": 66
+  },
+  "resumen_ubicaciones": {
+    "Sistema": 1,
+    "Auditorio Central": 10,
+    "Laboratorio de Ciencias": 10,
+    "Estacionamiento Norte": 8,
+    "Biblioteca Central": 10,
+    "Edificio de Ingeniería - Piso 3": 10,
+    "Campus Centenario - UPS Guayaquil": 4,
+    "Cafetería Principal": 10,
+    "Área Deportiva": 4
+  },
+  "detalle_alertas": [
+    {
+      "nivel": "CRITICA",
+      "tipo": "SISTEMA",
+      "ubicacion": "Sistema",
+      "mensaje": "Existen 12 alertas CRITICAS pendientes por mas de 1 hora",
+      "timestamp": "2026-01-11T18:02:51.693459",
+      "procesada": false
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Auditorio Central",
+      "mensaje": "Temperatura ALTA: 35.12°C",
+      "timestamp": "2026-01-11T18:02:38.037357",
+      "procesada": true
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Auditorio Central",
+      "mensaje": "Temperatura ALTA: 35.12°C",
+      "timestamp": "2026-01-11T18:02:38.037357",
+      "procesada": false
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Laboratorio de Ciencias",
+      "mensaje": "Temperatura ALTA: 35.31°C",
+      "timestamp": "2026-01-11T18:02:29.193790",
+      "procesada": true
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Laboratorio de Ciencias",
+      "mensaje": "Temperatura ALTA: 35.31°C",
+      "timestamp": "2026-01-11T18:02:29.193790",
+      "procesada": false
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Estacionamiento Norte",
+      "mensaje": "Nivel de CO2 ALTO: 1002.34 ppm",
+      "timestamp": "2026-01-11T18:02:26.048907",
+      "procesada": true
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Estacionamiento Norte",
+      "mensaje": "Nivel de CO2 ALTO: 1002.34 ppm",
+      "timestamp": "2026-01-11T18:02:26.048907",
+      "procesada": false
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Biblioteca Central",
+      "mensaje": "Temperatura ALTA: 35.28°C",
+      "timestamp": "2026-01-11T18:02:22.409851",
+      "procesada": true
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Biblioteca Central",
+      "mensaje": "Temperatura ALTA: 35.28°C",
+      "timestamp": "2026-01-11T18:02:22.409851",
+      "procesada": false
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Edificio de Ingeniería - Piso 3",
+      "mensaje": "Nivel de CO2 ALTO: 1107.45 ppm",
+      "timestamp": "2026-01-11T18:02:21.218938",
+      "procesada": true
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Edificio de Ingeniería - Piso 3",
+      "mensaje": "Nivel de CO2 ALTO: 1107.45 ppm",
+      "timestamp": "2026-01-11T18:02:21.218938",
+      "procesada": false
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Edificio de Ingeniería - Piso 3",
+      "mensaje": "Temperatura ALTA: 35.71°C",
+      "timestamp": "2026-01-11T18:02:21.139386",
+      "procesada": true
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Edificio de Ingeniería - Piso 3",
+      "mensaje": "Temperatura ALTA: 35.71°C",
+      "timestamp": "2026-01-11T18:02:21.139386",
+      "procesada": false
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Laboratorio de Ciencias",
+      "mensaje": "Humedad ALTA: 95.0%",
+      "timestamp": "2026-01-11T18:02:20.620371",
+      "procesada": true
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Laboratorio de Ciencias",
+      "mensaje": "Humedad ALTA: 95.0%",
+      "timestamp": "2026-01-11T18:02:20.620371",
+      "procesada": false
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Laboratorio de Ciencias",
+      "mensaje": "Nivel de CO2 ALTO: 1157.62 ppm",
+      "timestamp": "2026-01-11T18:02:20.421114",
+      "procesada": true
+    },
+    {
+      "nivel": "ADVERTENCIA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Laboratorio de Ciencias",
+      "mensaje": "Nivel de CO2 ALTO: 1157.62 ppm",
+      "timestamp": "2026-01-11T18:02:20.421114",
+      "procesada": false
+    },
+    {
+      "nivel": "CRITICA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Auditorio Central",
+      "mensaje": "Calidad del aire PELIGROSA detectada",
+      "timestamp": "2026-01-11T18:02:20.231013",
+      "procesada": true
+    },
+    {
+      "nivel": "CRITICA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Auditorio Central",
+      "mensaje": "Calidad del aire PELIGROSA detectada",
+      "timestamp": "2026-01-11T18:02:20.231013",
+      "procesada": false
+    },
+    {
+      "nivel": "CRITICA",
+      "tipo": "CALIDAD_AIRE",
+      "ubicacion": "Auditorio Central",
+      "mensaje": "Nivel de CO2 CRITICO: 1257.15 ppm",
+      "timestamp": "2026-01-11T18:02:20.220052",
+      "procesada": true
+    }
+  ]
+}
